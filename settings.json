@@ -8,7 +8,7 @@
   "server": {
     "ip": "FairplayS.aternos.me",
     "port": 55726,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
